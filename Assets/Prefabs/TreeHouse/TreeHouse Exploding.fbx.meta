@@ -1,0 +1,279 @@
+fileFormatVersion: 2
+guid: 9e310df113f55e348a16928cb997d6b2
+timeCreated: 1505749888
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Acorn_Bowl
+    100002: Acorn_Cup
+    100004: Acorn_Frame
+    100006: Acorn_Frame 1
+    100008: Acorn_Net
+    100010: Acorn_Sink
+    100012: Acorn_Stove
+    100014: Acorn_Teapot
+    100016: Acorn_Toilet
+    100018: Acorn_Toy_Box
+    100020: Acorn_Tub
+    100022: Boy_Poster
+    100024: Ceiling_Light
+    100026: Dining_Table
+    100028: EVIL_FACE
+    100030: Famly_Portrait
+    100032: HAND
+    100034: Leaf_2
+    100036: Leaf_3
+    100038: Leaf_4
+    100040: Leaf_5
+    100042: Leaf_6
+    100044: Mirror
+    100046: Mushroom_Bundle
+    100048: Mushroom_Red
+    100050: Mushroom_Red1
+    100052: Mushroom_Red2
+    100054: Nail
+    100056: Pillow_Big
+    100058: Pillow_Small
+    100060: Poster
+    100062: PROPS
+    100064: ROOF
+    100066: SAD_FACE
+    100068: SAVE
+    100070: SHELL
+    100072: Toilet_Base
+    100074: Toilet_Base1
+    100076: Toilet_Handle
+    100078: Toy_Acorn
+    100080: Tree_Chair
+    100082: TREEHOUSE
+    100084: //RootNode
+    100086: WALL
+    400000: Acorn_Bowl
+    400002: Acorn_Cup
+    400004: Acorn_Frame
+    400006: Acorn_Frame 1
+    400008: Acorn_Net
+    400010: Acorn_Sink
+    400012: Acorn_Stove
+    400014: Acorn_Teapot
+    400016: Acorn_Toilet
+    400018: Acorn_Toy_Box
+    400020: Acorn_Tub
+    400022: Boy_Poster
+    400024: Ceiling_Light
+    400026: Dining_Table
+    400028: EVIL_FACE
+    400030: Famly_Portrait
+    400032: HAND
+    400034: Leaf_2
+    400036: Leaf_3
+    400038: Leaf_4
+    400040: Leaf_5
+    400042: Leaf_6
+    400044: Mirror
+    400046: Mushroom_Bundle
+    400048: Mushroom_Red
+    400050: Mushroom_Red1
+    400052: Mushroom_Red2
+    400054: Nail
+    400056: Pillow_Big
+    400058: Pillow_Small
+    400060: Poster
+    400062: PROPS
+    400064: ROOF
+    400066: SAD_FACE
+    400068: SAVE
+    400070: SHELL
+    400072: Toilet_Base
+    400074: Toilet_Base1
+    400076: Toilet_Handle
+    400078: Toy_Acorn
+    400080: Tree_Chair
+    400082: TREEHOUSE
+    400084: //RootNode
+    400086: WALL
+    2300000: Acorn_Bowl
+    2300002: Acorn_Cup
+    2300004: Acorn_Frame 1
+    2300006: Acorn_Net
+    2300008: Acorn_Sink
+    2300010: Acorn_Stove
+    2300012: Acorn_Teapot
+    2300014: Acorn_Toy_Box
+    2300016: Acorn_Tub
+    2300018: Boy_Poster
+    2300020: Ceiling_Light
+    2300022: Dining_Table
+    2300024: EVIL_FACE
+    2300026: Famly_Portrait
+    2300028: HAND
+    2300030: Leaf_2
+    2300032: Leaf_3
+    2300034: Leaf_4
+    2300036: Leaf_5
+    2300038: Leaf_6
+    2300040: Mirror
+    2300042: Mushroom_Red
+    2300044: Mushroom_Red1
+    2300046: Mushroom_Red2
+    2300048: Nail
+    2300050: Pillow_Big
+    2300052: Pillow_Small
+    2300054: ROOF
+    2300056: SAD_FACE
+    2300058: SHELL
+    2300060: Toilet_Base
+    2300062: Toilet_Base1
+    2300064: Toilet_Handle
+    2300066: Toy_Acorn
+    2300068: Tree_Chair
+    3300000: Acorn_Bowl
+    3300002: Acorn_Cup
+    3300004: Acorn_Frame 1
+    3300006: Acorn_Net
+    3300008: Acorn_Sink
+    3300010: Acorn_Stove
+    3300012: Acorn_Teapot
+    3300014: Acorn_Toy_Box
+    3300016: Acorn_Tub
+    3300018: Boy_Poster
+    3300020: Ceiling_Light
+    3300022: Dining_Table
+    3300024: EVIL_FACE
+    3300026: Famly_Portrait
+    3300028: HAND
+    3300030: Leaf_2
+    3300032: Leaf_3
+    3300034: Leaf_4
+    3300036: Leaf_5
+    3300038: Leaf_6
+    3300040: Mirror
+    3300042: Mushroom_Red
+    3300044: Mushroom_Red1
+    3300046: Mushroom_Red2
+    3300048: Nail
+    3300050: Pillow_Big
+    3300052: Pillow_Small
+    3300054: ROOF
+    3300056: SAD_FACE
+    3300058: SHELL
+    3300060: Toilet_Base
+    3300062: Toilet_Base1
+    3300064: Toilet_Handle
+    3300066: Toy_Acorn
+    3300068: Tree_Chair
+    4300000: SHELL
+    4300002: ROOF
+    4300004: Tree_Chair
+    4300006: Dining_Table
+    4300008: Pillow_Small
+    4300010: Pillow_Big
+    4300012: Toy_Acorn
+    4300014: Acorn_Frame
+    4300016: Famly_Portrait
+    4300018: Acorn_Sink
+    4300020: Acorn_Stove
+    4300022: Toilet_Base1
+    4300024: Toilet_Base
+    4300026: Toilet_Handle
+    4300028: Acorn_Cup
+    4300030: Acorn_Bowl
+    4300032: Acorn_Tub
+    4300034: Acorn_Teapot
+    4300036: Ceiling_Light
+    4300038: Acorn_Toy_Box
+    4300040: Acorn_Net
+    4300042: Mirror
+    4300044: Boy_Poster
+    4300046: Nail
+    4300048: Leaf_4
+    4300050: Leaf_3
+    4300052: Leaf_2
+    4300054: Leaf_6
+    4300056: Leaf_5
+    4300058: Mushroom_Red
+    4300060: Mushroom_Red1
+    4300062: Mushroom_Red2
+    4300064: HAND
+    4300066: WALL
+    4300068: EVIL_FACE
+    4300070: SAD_FACE
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: WALL
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 1
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

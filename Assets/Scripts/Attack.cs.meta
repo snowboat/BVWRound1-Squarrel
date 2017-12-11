@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 83181752018a55343b8860b658c9eae6
+timeCreated: 1505519316
+licenseType: Pro
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - baby: {fileID: 1745726902793296, guid: 139d2ffeccfd7e84c815fcfdf0ccd832, type: 2}
+  - crackedAcornPrefab: {fileID: 1252595356311458, guid: d85ac13c5a752134bb2590a7bdde098a,
+      type: 2}
+  - grabAnimation: {instanceID: 0}
+  - windowPos: {instanceID: 0}
+  - babyPos: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
