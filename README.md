@@ -1,4 +1,4 @@
-# BVWRound1 - Squarrel
+# BVWRound1 Squarrel
 
 HTC Vive project
 
